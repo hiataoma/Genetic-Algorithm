@@ -1,0 +1,11 @@
+C:\Users\10484\Desktop\code\C#\GA\bin\Debug\netcoreapp3.0\GA.exe
+C:\Users\10484\Desktop\code\C#\GA\bin\Debug\netcoreapp3.0\GA.deps.json
+C:\Users\10484\Desktop\code\C#\GA\bin\Debug\netcoreapp3.0\GA.runtimeconfig.json
+C:\Users\10484\Desktop\code\C#\GA\bin\Debug\netcoreapp3.0\GA.runtimeconfig.dev.json
+C:\Users\10484\Desktop\code\C#\GA\bin\Debug\netcoreapp3.0\GA.dll
+C:\Users\10484\Desktop\code\C#\GA\bin\Debug\netcoreapp3.0\GA.pdb
+C:\Users\10484\Desktop\code\C#\GA\obj\Debug\netcoreapp3.0\GA.csprojAssemblyReference.cache
+C:\Users\10484\Desktop\code\C#\GA\obj\Debug\netcoreapp3.0\GA.AssemblyInfoInputs.cache
+C:\Users\10484\Desktop\code\C#\GA\obj\Debug\netcoreapp3.0\GA.AssemblyInfo.cs
+C:\Users\10484\Desktop\code\C#\GA\obj\Debug\netcoreapp3.0\GA.dll
+C:\Users\10484\Desktop\code\C#\GA\obj\Debug\netcoreapp3.0\GA.pdb
